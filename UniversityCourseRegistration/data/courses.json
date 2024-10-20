@@ -1,0 +1,12 @@
+[
+  {
+    "code": "CS101",
+    "credits": 3,
+    "name": "Introduction to Programming"
+  },
+  {
+    "code": "CS201",
+    "credits": 4,
+    "name": "Data Structures"
+  }
+]
